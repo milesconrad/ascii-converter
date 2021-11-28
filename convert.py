@@ -49,6 +49,6 @@ line = ""
 for i in range(len(pixels_as_chars)):
     for j in range(len(pixels_as_chars[i])):
         line += str(pixels_as_chars[i][j])
-        line += " "
+        line += "  "
     print(line)
     line = ""
