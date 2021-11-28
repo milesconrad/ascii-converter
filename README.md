@@ -7,10 +7,8 @@ The program is made to accept GIFs as well, however it will only process the fir
 
 # examples
 <img src="https://raw.githubusercontent.com/milesconrad/ascii-converter/main/images/skull.jpeg" width="200"/>
-
 <img src="https://raw.githubusercontent.com/milesconrad/ascii-converter/main/images/skull_processed.png" width="200"/>
 
 
 <img src="https://raw.githubusercontent.com/milesconrad/ascii-converter/main/images/sunset.jpeg" width="200"/>
-
 <img src="https://raw.githubusercontent.com/milesconrad/ascii-converter/main/images/sunset_processed.png" width="200"/>
